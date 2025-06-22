@@ -1,0 +1,50 @@
+LOW RES
+
+
+Total Frames Processed: 500
+CPU Processing Time for Entire Video: 5.10 seconds
+Average Time Per Frame: 0.0102 seconds
+Initial Memory Usage: 257.20 MB
+Final Memory Usage: 356.67 MB
+Memory Usage Difference: 99.48 MB
+
+
+HIGH RES
+
+Total Frames Processed: 1800
+CPU Processing Time for Entire Video: 518.73 seconds
+Average Time Per Frame: 0.2882 seconds
+Initial Memory Usage: 261.21 MB
+Final Memory Usage: 1269.97 MB
+Memory Usage Difference: 1008.77 MB
+
+
+
+
+LOW RES
+===== Performance Metrics =====
+Total Frames Processed: 496
+GPU Processing Time for Entire Video: 20.7713 seconds
+Average Time Per Frame: 0.0419 seconds
+Initial CPU Memory Usage: 1116.37 MB
+Final CPU Memory Usage: 1422.52 MB
+CPU Memory Usage Difference: 306.14 MB
+Initial GPU Memory Usage: 1274.25 MB
+Final GPU Memory Usage: 930.25 MB
+GPU Memory Usage Difference: -344.00 MB
+Average GPU Utilization: 97.29%
+
+
+HIGH RES
+
+
+Total Frames Processed: 1792
+GPU Processing Time for Entire Video: 74.4360 seconds
+Average Time Per Frame: 0.0415 seconds
+Initial CPU Memory Usage: 1118.86 MB
+Final CPU Memory Usage: 1911.34 MB
+CPU Memory Usage Difference: 792.48 MB
+Initial GPU Memory Usage: 1274.25 MB
+Final GPU Memory Usage: 930.25 MB
+GPU Memory Usage Difference: -344.00 MB
+Average GPU Utilization: 99.11% 
